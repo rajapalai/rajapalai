@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajapalai.
-- ![LinkedinGIF](https://user-images.githubusercontent.com/67215700/219948001-8070d873-4f46-4102-b8e0-e4d62fb635a6.gif)
-   linkedin.com/in/raja-palai-🇮🇳-4b75a1153
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> linkedin.com/in/raja-palai-🇮🇳-4b75a1153
 - 👀 I’m interested in creating microservices using spring boot and AWS cloud platfrom.
 - 🌱 I’m currently working with Synechron Technologies Pvt. Ltd.
 - 💞️ I’m looking to collaborate on new tech company.
